@@ -29,5 +29,3 @@
 - 📈 **POWER BI**  
 
 ---
-
-## 📊 GitHub Insights  
