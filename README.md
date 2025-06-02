@@ -1,4 +1,3 @@
-# aboutme
 # 🔑 Hey, I'm Benjamin Jerez
 
 ## 🌍 About Me
